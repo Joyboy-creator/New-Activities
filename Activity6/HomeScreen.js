@@ -44,6 +44,6 @@ const styles = StyleSheet.create({
   },
 
   text: {
-    fontSize: 17
+    fontSize: 20
   }
 });
