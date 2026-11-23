@@ -104,7 +104,7 @@ const styles = StyleSheet.create({
   container: {
     flex: 1,
     backgroundColor: '#F3F4F6',
-    padding: 20,
+    padding: 21,
     paddingTop: 50
   },
 
@@ -126,7 +126,7 @@ const styles = StyleSheet.create({
     backgroundColor: 'white',
     padding: 12,
     marginBottom: 10,
-    borderRadius: 10
+    borderRadius: 9
   },
 
   image: {
