@@ -353,7 +353,7 @@ const styles = StyleSheet.create({
   },
 
   greeting: {
-    fontSize: 11,
+    fontSize: 12,
     fontWeight: '700',
     letterSpacing: 2,
     color: '#668674',
